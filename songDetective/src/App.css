@@ -1,0 +1,142 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+  gap: 1em;
+}
+
+.btn-player {
+  background: #a880d7;
+  color: #fff;
+  padding: 12px 30px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.title-song {
+  color: #a880d7;
+  text-align: center;
+  margin: 0;
+}
+
+.options-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.options {
+  border-color: #a880d7 !important;
+  background-color: #fff !important;
+  width: 200px;
+  height: 200px;
+  padding: 0 !important;
+  position: relative;
+}
+
+.option-info-img {
+  position: relative;
+}
+
+.album-img {
+  border-radius: 7px;
+  filter: brightness(0.4);
+  transition: filter 0.3s ease-in-out;
+}
+
+.album-img:hover {
+  filter: brightness(0.7);
+}
+
+.title-album {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  color: #fff;
+  transform: translate(-50%, -80%);
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  font-size: 13px;
+}
+
+.info-text {
+  color: #292929;
+  font-size: 11px;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  position: relative;
+  min-width: 25%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-btn {
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 2px;
+  right: 15px;
+  color: #a880d7;
+}
+
+.modal-msg {
+  color: #292929;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .title-song {
+    font-size: 21px;
+  }
+
+  .options-container {
+    flex-direction: column;
+  }
+
+  .container {
+    margin-top: 20px;
+  }
+
+  .info-text {
+    font-size: 14px;
+  }
+
+  .close-btn {
+    font-size: 35px;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+}
