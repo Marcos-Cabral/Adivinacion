@@ -151,6 +151,7 @@
 
     .label-config {
         font-size: 1em;
+        width: auto;
     }
 
     .item {
@@ -183,7 +184,7 @@
         font-size: 0.7em;
     }
 
-    .save-button {
+    .save-button, .close-button {
         width: 6em;
     }
 }

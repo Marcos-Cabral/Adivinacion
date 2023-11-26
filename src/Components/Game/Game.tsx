@@ -68,10 +68,10 @@ const Game: React.FC = () => {
                 duration = 3000;
                 break;
             case 'Difícil':
-                duration = 1000;
+                duration = 1500;
                 break;
             case 'Insano':
-                duration = 500;
+                duration = 800;
                 break;
             default:
                 duration = 2000; // Por defecto, establecer la duración normal
@@ -85,7 +85,7 @@ const Game: React.FC = () => {
                 setIsPlaying(false);
                 audioRef.current!.pause();
             }, duration);
-        } difficulty
+        }
     };
 
     const handleOptionClick = (index: number) => {
