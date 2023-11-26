@@ -12,11 +12,6 @@ const App: React.FC = () => {
     setModalVisible(!modalVisible);
   };
 
-  const handleSetBzrpTheme = () => {
-    setTheme('bzrp');
-    setModalVisible(false);
-  };
-
   return (
     <div className='container'>
       {!theme || modalVisible ? (
