@@ -124,6 +124,9 @@
   font-size: 1.3em;
   color: #f5f5f5;
   background: #F09D51;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {

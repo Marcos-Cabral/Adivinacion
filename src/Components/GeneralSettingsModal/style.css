@@ -148,13 +148,14 @@
     }
 
     .item {
-        width: 6em;
+        width: 5em;
         height: 6em;
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
         font-size: 0.8em;
+        text-wrap: wrap;
     }
 
     .difficulty-btn {
