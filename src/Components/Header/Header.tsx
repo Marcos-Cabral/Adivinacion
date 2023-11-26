@@ -8,9 +8,9 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ onPlay, isPlaying }) => {
     return (
         <div className='header'>
-            <h1 className='title-song'>🕵️‍♀️Song Detective🕵️‍♂️</h1>
+            <h1 className='title-song'>🎵 Adivinación 🎵</h1>
             <button className='btn-player' onClick={onPlay} disabled={isPlaying}>
-                <img src="/play.png" alt="play" width={20} height={20} />Play
+                <img src={isPlaying ? "/audio.gif" : "/play.png"} alt="play" width={30} height={30} />Play
             </button>
         </div>
     );

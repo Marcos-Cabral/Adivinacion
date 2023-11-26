@@ -1,2 +1,4 @@
 taylorList: 11858995661
 bzrpList: 12012786681
+duki: 12015437781
+mariaBecerra: 12015443301

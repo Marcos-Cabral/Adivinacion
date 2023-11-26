@@ -1,0 +1,14 @@
+.modal-msg {
+    color: #313638;
+    text-align: center;
+}
+
+.correct {
+    color: #53DD6C !important;
+    font-weight: bold;
+}
+
+.incorrect {
+    color: #F06543 !important;
+    font-weight: bold;
+}

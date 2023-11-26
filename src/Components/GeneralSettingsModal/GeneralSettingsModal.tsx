@@ -13,16 +13,34 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
     const [selectedTheme, setSelectedTheme] = useState<Theme | null>(theme);
     const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>(difficulty);
 
-    const difficulties: Difficulty[] = ['Fácil', 'Normal', 'Difícil']; // Ejemplo de niveles de dificultad
-
-    const themes: Theme[] = ['taylor-swift', 'bzrp'];
-
+    const difficulties: Difficulty[] = ['Fácil', 'Normal', 'Difícil'];
+    const themes: Theme[] = [
+        Theme.TaylorSwift,
+        Theme.Bzrp,
+        Theme.Duki,
+        Theme.MariaBecerra,
+        Theme.YSYA,
+        Theme.Tini,
+        Theme.NickiNicole,
+        Theme.Wos,
+        Theme.Louta,
+        Theme.Trueno,
+        Theme.Lali,
+        Theme.AbelPintos,
+        Theme.Cerati,
+        Theme.SodaStereo,
+        Theme.LosRedondos,
+        Theme.LaRenga,
+        Theme.CharlyGarcia,
+        Theme.Iorio,
+        Theme.CristianCastro,
+    ];
     const handleSetDifficulty = (difficulty: Difficulty) => {
         setSelectedDifficulty(difficulty);
     };
 
     const handleSetTheme = (theme: Theme) => {
-        setSelectedTheme(theme); // Marcar la opción seleccionada visualmente
+        setSelectedTheme(theme);
     };
 
     const handleSaveTheme = () => {
@@ -35,24 +53,27 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
 
     return (
         <div className="modal-background">
+            <h3 className='config-title'>Configuración</h3>
             <div className="general-settings-modal">
-                <h2 className='label-config'>Selecciona un género a adivinar</h2>
-                <div className='scroll-container'>
-                    <div className='scroll-content'>
-                        {themes.map((theme, index) => (
-                            <button
-                                className={`item btn-option ${selectedTheme === theme ? 'selected' : ''}`}
-                                key={index}
-                                onClick={() => handleSetTheme(theme)}
-                            >
-                                {theme}
-                            </button>
-                        ))}
+                <div className="theme-container-text">
+                    <h2 className='label-config'>Género</h2>
+                    <div className='scroll-container'>
+                        <div className='scroll-content'>
+                            {themes.map((theme, index) => (
+                                <button
+                                    className={`item btn-option ${selectedTheme === theme ? 'selected' : ''}`}
+                                    key={index}
+                                    onClick={() => handleSetTheme(theme)}
+                                >
+                                    {theme}
+                                </button>
+                            ))}
+                        </div>
                     </div>
                 </div>
                 <div className='difficulty-section'>
                     <div>
-                        <h2 className='label-config'>Selecciona la dificultad</h2>
+                        <h2 className='label-config'>Dificultad</h2>
                         <span className='info-difficulty'>La dificultad modifica la duración de la canción al momento de adivinarla.</span>
                     </div>
                     <div className='difficulty-container'>
@@ -65,7 +86,7 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
                                 <span>{difficulty}</span>
                                 <div className='average-container'>
                                     {Array.from({ length: index + 1 }).map((_, i) => (
-                                        <span key={i}>⭐️</span>
+                                        <span className='star' key={i}>⭐️</span>
                                     ))}
                                 </div>
                             </button>

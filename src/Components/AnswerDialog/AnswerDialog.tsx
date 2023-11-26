@@ -1,17 +1,17 @@
 import React from 'react';
+import ResultMessage from '../ResultMessage/ResultMessage';
 
 export interface AnswerDialogProps {
     visible: boolean;
-    message: string;
-    onClose: () => void;
+    title: string;
+    guessed: boolean;
 }
 
-const AnswerDialog: React.FC<AnswerDialogProps> = ({ visible, message, onClose }) => {
+const AnswerDialog: React.FC<AnswerDialogProps> = ({ guessed, visible, title }) => {
     return (
         <div className='modal' style={{ display: visible ? 'flex' : 'none' }}>
             <div className='modal-content'>
-                <span className='close-btn' onClick={onClose}>X</span>
-                <p className='modal-msg'>{message}</p>
+                <ResultMessage guessed={guessed} title={title} />
             </div>
         </div>
     );

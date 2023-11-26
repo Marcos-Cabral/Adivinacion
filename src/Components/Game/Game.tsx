@@ -20,7 +20,7 @@ export interface Track {
 const Game: React.FC = () => {
     const { theme, difficulty } = useGameContext();
     const [modalVisible, setModalVisible] = useState<boolean>(false);
-    const [modalMessage, setModalMessage] = useState<string>('');
+    const [guessed, setGuessed] = useState<boolean>(false);
     const [gameState, setGameState] = useState<GameState>({
         options: [],
         correctOption: null,
@@ -29,8 +29,8 @@ const Game: React.FC = () => {
     const audioRef = useRef<HTMLAudioElement>(null);
     const [isPlaying, setIsPlaying] = useState<boolean>(false);
 
-    const showModal = (message: string) => {
-        setModalMessage(message);
+    const showModal = (guessed: boolean) => {
+        setGuessed(guessed);
         setModalVisible(true);
     };
 
@@ -85,14 +85,15 @@ const Game: React.FC = () => {
     };
 
     const handleOptionClick = (index: number) => {
-        if (index === gameState.correctOption) {
-            showModal('¡Respuesta correcta!');
-        } else {
-            showModal('Respuesta incorrecta, era ' + gameState.options[gameState.correctOption!].title);
-        }
+        showModal(index === gameState.correctOption);
         setTimeout(() => {
             generateOptions();
             closeModal();
+            setIsPlaying(false);
+            if (audioRef.current) {
+                audioRef.current.currentTime = 0;
+                audioRef.current!.pause();
+            }
         }, 1500);
     };
 
@@ -103,7 +104,7 @@ const Game: React.FC = () => {
     return (
         <>
             <Header onPlay={playSong} isPlaying={isPlaying} />
-            <AnswerDialog visible={modalVisible} message={modalMessage} onClose={closeModal} />
+            <AnswerDialog visible={modalVisible} guessed={guessed} title={gameState?.options[gameState?.correctOption!]?.title} />
             <GameOptions audioRef={audioRef} gameState={gameState} onSelectOption={handleOptionClick} />
         </>
     );
