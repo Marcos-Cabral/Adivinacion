@@ -71,11 +71,7 @@
     background-color: #E0DFD5;
     margin-right: 10px;
     padding: 0px;
-    box-sizing: border-box;
     color: #313638;
-    text-wrap: wrap !important;
-    overflow-wrap: break-word;
-    word-break: break-word;
 }
 
 .selected {
@@ -152,15 +148,15 @@
     }
 
     .item {
-        width: 7em;
-        height: 7em;
+        width: 8em;
+        height: 5em;
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
         font-size: 0.7em;
         flex-direction: column;
-        padding: 10px;
+        padding: 7px;
     }
 
     .difficulty-btn {
