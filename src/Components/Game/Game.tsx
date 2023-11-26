@@ -74,7 +74,7 @@ const Game: React.FC = () => {
                 duration = 0.6;
                 break;
             default:
-                duration = 2; // Valor por defecto para la duración
+                duration = 3; // Valor por defecto para la duración
                 break;
         }
         if (audioRef.current) {
