@@ -73,6 +73,8 @@
     box-sizing: border-box;
     color: #313638;
     text-wrap: wrap !important;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 .selected {
