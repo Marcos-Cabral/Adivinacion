@@ -155,6 +155,7 @@
   .container {
     margin-top: 20px;
     justify-content: normal;
+    margin-bottom: 30px;
   }
 
   .info-text {
