@@ -62,29 +62,33 @@ const Game: React.FC = () => {
 
         switch (difficulty) {
             case 'Fácil':
-                duration = 5000;
+                duration = 5;
                 break;
             case 'Normal':
-                duration = 3000;
+                duration = 3;
                 break;
             case 'Difícil':
-                duration = 1500;
+                duration = 1.5;
                 break;
             case 'Insano':
-                duration = 800;
+                duration = 0.6;
                 break;
             default:
-                duration = 2000; // Por defecto, establecer la duración normal
+                duration = 2; // Valor por defecto para la duración
                 break;
         }
         if (audioRef.current) {
             audioRef.current.currentTime = 10;
             setIsPlaying(true);
             audioRef.current.play();
-            setTimeout(() => {
-                setIsPlaying(false);
-                audioRef.current!.pause();
-            }, duration);
+            audioRef.current.ontimeupdate = () => {
+                if (audioRef.current && audioRef.current.currentTime >= duration + 10) {
+                    setIsPlaying(false);
+                    audioRef.current.pause();
+                    audioRef.current.currentTime = 10;
+                    audioRef.current.ontimeupdate = null; // Limpiar el event listener
+                }
+            };
         }
     };
 
