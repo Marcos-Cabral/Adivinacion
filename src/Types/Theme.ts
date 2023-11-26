@@ -1,0 +1,1 @@
+export type Theme = 'taylor-swift' | 'bzrp';

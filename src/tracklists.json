@@ -1,1586 +1,610 @@
-[
-  {
-    "id": 737967342,
-    "readable": true,
-    "title": "Miss Americana & The Heartbreak Prince",
-    "title_short": "Miss Americana & The Heartbreak Prince",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967342",
-    "duration": 234,
-    "rank": 871670,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-19bd4fad31214b750530cd1904f22d3d-6.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
+{
+  "taylor-swift": {
+    "data": [
+      {
+        "id": 737967342,
+        "title": "Miss Americana & The Heartbreak Prince",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-19bd4fad31214b750530cd1904f22d3d-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 737967292,
+        "title": "Cruel Summer",
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-48e488b448a805fff7ad99a43ed63f16-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 737967312,
+        "title": "The Man",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-041933c821bfbfa0e816f9c2a44e1f56-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 737967412,
+        "title": "You Need To Calm Down",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5f0ef5757f88c16acd6f714f03335b0c-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 737967302,
+        "title": "Lover",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d5c941adecf0331e10a06e7c7d50604d-10.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 737967322,
+        "title": "The Archer",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef165c70aced3094b98821c001d6bdba-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1332676962,
+        "title": "Fearless (Taylor’s Version)",
+        "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c76908795ce53953eb328742d49337a9-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1332677012,
+        "title": "You Belong With Me (Taylor’s Version)",
+        "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cd28a23ea07cbe98e1b38fa06bb28700-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1332676982,
+        "title": "Love Story (Taylor’s Version)",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6d4abd3614bc99fa68298aace77698ee-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1199760492,
+        "title": "‘tis the damn season",
+        "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f63b48cd7dfe65213f359c94ac947c28-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1199760462,
+        "title": "willow",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b3a506b9801e695eceeb62bdbd2dc3ea-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1199760582,
+        "title": "marjorie",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1ff847c43c106681592b24bc578d781c-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1199760472,
+        "title": "champagne problems",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d89a97e64fe5ae755860e0b0b9fd17ef-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1199760502,
+        "title": "tolerate it",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2ed86e95fedfb34a2416ddda6a1f2358-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 435491442,
+        "title": "...Ready For It?",
+        "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cdc518fa41acf3e425bb63e58a8aedb8-7.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 435491482,
+        "title": "Delicate",
+        "preview": "https://cdns-preview-f.dzcdn.net/stream/c-ffcc9c3bc91ee70e3fca6b7a88ac94fa-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 435491472,
+        "title": "Don’t Blame Me",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1933b457b094f893f9dcae061959e132-7.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 435491492,
+        "title": "Look What You Made Me Do",
+        "preview": "https://cdns-preview-c.dzcdn.net/stream/c-ceb7cb4362bceb7e4f362bf9b5c04bb8-8.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2355587775,
+        "title": "Enchanted (Taylor's Version)",
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4a7fb6309089d456e147cb8a79ea908e-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2355587825,
+        "title": "Long Live (Taylor's Version)",
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab55a2ee1eeaa31c5ea15a546d826c7f-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1550966362,
+        "title": "22 (Taylor's Version)",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bc11ea8d0427318bcd506ab8ee089bb4-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1550966382,
+        "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d886b61e8dccb9a1d2ee082ad683ba27-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1550966342,
+        "title": "I Knew You Were Trouble (Taylor's Version)",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e9484eea104640b0b3761bba6d07ca83-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1550966602,
+        "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-791ddfb106822228cc923c0e45098471-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765272,
+        "title": "seven",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-7193c87c269febbf888c9cc8014d6c4b-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765212,
+        "title": "the 1",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-50b01ce92176cd72008399656a478b0f-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765342,
+        "title": "betty",
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3c088b9557e76087e6f7f6f96e763f8b-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765232,
+        "title": "the last great american dynasty",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1038e9c3efe1ffe4a85afdb0e3dceee4-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765282,
+        "title": "august",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e871600971427df48a544337b3c49bcc-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765302,
+        "title": "illicit affairs",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0821ba84fc4017efcb7856b60a048ce9-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765252,
+        "title": "my tears ricochet",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ead505ccf63f09e4d622f57e75c63db0-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1053765222,
+        "title": "cardigan",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-74d64fade496a5b85ec5af1d1d240474-10.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2512293201,
+        "title": "Style (Taylor's Version)",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e1db37c9e913ded34531827fa86e308d-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2512293191,
+        "title": "Blank Space (Taylor's Version)",
+        "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f8f8d4965c60282d0a4bafb53a42036a-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2512293231,
+        "title": "Shake It Off (Taylor's Version)",
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4518df8236dde2da25d5f0d1d81eeff6-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2512293261,
+        "title": "Wildest Dreams (Taylor's Version)",
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-35dc3866c916847422d8a823febd016b-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2512293251,
+        "title": "Bad Blood (Taylor's Version)",
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4337cd223f04f5ab7e7b32d71e537a75-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267725,
+        "title": "Lavender Haze",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5ad7b80d593b56fbd319f81936b4e8c5-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267745,
+        "title": "Anti-Hero",
+        "preview": "https://cdns-preview-8.dzcdn.net/stream/c-828a4c6ef4e912f1459f09791d26f863-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267775,
+        "title": "Midnight Rain",
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3b6104ea5017ea5706f6da2f858221a4-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267795,
+        "title": "Vigilante Shit",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e2daa48295092cc92d63d57d412c1987-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267805,
+        "title": "Bejeweled",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-65d361185515a5d491cafb004b5d9c18-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267845,
+        "title": "Mastermind",
+        "preview": "https://cdns-preview-8.dzcdn.net/stream/c-88353554ed2db05ab1344011f3087779-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2300267825,
+        "title": "Karma",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e4c355e15c6ec052157d981fb6e9920c-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg"
+      }
+    ]
   },
-  {
-    "id": 737967292,
-    "readable": true,
-    "title": "Cruel Summer",
-    "title_short": "Cruel Summer",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967292",
-    "duration": 178,
-    "rank": 991115,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-48e488b448a805fff7ad99a43ed63f16-6.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 737967312,
-    "readable": true,
-    "title": "The Man",
-    "title_short": "The Man",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967312",
-    "duration": 190,
-    "rank": 880432,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-0.dzcdn.net/stream/c-041933c821bfbfa0e816f9c2a44e1f56-6.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 737967412,
-    "readable": true,
-    "title": "You Need To Calm Down",
-    "title_short": "You Need To Calm Down",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967412",
-    "duration": 171,
-    "rank": 850135,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5f0ef5757f88c16acd6f714f03335b0c-6.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 737967302,
-    "readable": true,
-    "title": "Lover",
-    "title_short": "Lover",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967302",
-    "duration": 221,
-    "rank": 922176,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d5c941adecf0331e10a06e7c7d50604d-10.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 737967322,
-    "readable": true,
-    "title": "The Archer",
-    "title_short": "The Archer",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/737967322",
-    "duration": 211,
-    "rank": 824619,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef165c70aced3094b98821c001d6bdba-6.mp3",
-    "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 108447472,
-      "title": "Lover",
-      "cover": "https://api.deezer.com/album/108447472/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6111c5ab9729c8eac47883e4e50e9cf8/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6111c5ab9729c8eac47883e4e50e9cf8",
-      "tracklist": "https://api.deezer.com/album/108447472/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1332676962,
-    "readable": true,
-    "title": "Fearless (Taylor’s Version)",
-    "title_short": "Fearless (Taylor’s Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1332676962",
-    "duration": 241,
-    "rank": 810998,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c76908795ce53953eb328742d49337a9-4.mp3",
-    "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 221543452,
-      "title": "Fearless (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/221543452/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-      "tracklist": "https://api.deezer.com/album/221543452/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1332677012,
-    "readable": true,
-    "title": "You Belong With Me (Taylor’s Version)",
-    "title_short": "You Belong With Me (Taylor’s Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1332677012",
-    "duration": 231,
-    "rank": 875751,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cd28a23ea07cbe98e1b38fa06bb28700-6.mp3",
-    "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 221543452,
-      "title": "Fearless (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/221543452/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-      "tracklist": "https://api.deezer.com/album/221543452/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1332676982,
-    "readable": true,
-    "title": "Love Story (Taylor’s Version)",
-    "title_short": "Love Story (Taylor’s Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1332676982",
-    "duration": 235,
-    "rank": 873397,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6d4abd3614bc99fa68298aace77698ee-4.mp3",
-    "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 221543452,
-      "title": "Fearless (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/221543452/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/cce4e99be496acc9dc2e4365c5b288fc/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "cce4e99be496acc9dc2e4365c5b288fc",
-      "tracklist": "https://api.deezer.com/album/221543452/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1199760492,
-    "readable": true,
-    "title": "‘tis the damn season",
-    "title_short": "‘tis the damn season",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1199760492",
-    "duration": 229,
-    "rank": 753450,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f63b48cd7dfe65213f359c94ac947c28-4.mp3",
-    "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 198167862,
-      "title": "evermore (deluxe version)",
-      "cover": "https://api.deezer.com/album/198167862/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-      "tracklist": "https://api.deezer.com/album/198167862/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1199760462,
-    "readable": true,
-    "title": "willow",
-    "title_short": "willow",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1199760462",
-    "duration": 214,
-    "rank": 796005,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b3a506b9801e695eceeb62bdbd2dc3ea-4.mp3",
-    "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 198167862,
-      "title": "evermore (deluxe version)",
-      "cover": "https://api.deezer.com/album/198167862/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-      "tracklist": "https://api.deezer.com/album/198167862/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1199760582,
-    "readable": true,
-    "title": "marjorie",
-    "title_short": "marjorie",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1199760582",
-    "duration": 257,
-    "rank": 763855,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1ff847c43c106681592b24bc578d781c-4.mp3",
-    "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 198167862,
-      "title": "evermore (deluxe version)",
-      "cover": "https://api.deezer.com/album/198167862/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-      "tracklist": "https://api.deezer.com/album/198167862/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1199760472,
-    "readable": true,
-    "title": "champagne problems",
-    "title_short": "champagne problems",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1199760472",
-    "duration": 244,
-    "rank": 807890,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d89a97e64fe5ae755860e0b0b9fd17ef-4.mp3",
-    "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 198167862,
-      "title": "evermore (deluxe version)",
-      "cover": "https://api.deezer.com/album/198167862/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-      "tracklist": "https://api.deezer.com/album/198167862/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1199760502,
-    "readable": true,
-    "title": "tolerate it",
-    "title_short": "tolerate it",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1199760502",
-    "duration": 245,
-    "rank": 763313,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2ed86e95fedfb34a2416ddda6a1f2358-4.mp3",
-    "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 198167862,
-      "title": "evermore (deluxe version)",
-      "cover": "https://api.deezer.com/album/198167862/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "5bced293f3a0568a5f5111f92cbca47f",
-      "tracklist": "https://api.deezer.com/album/198167862/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 435491442,
-    "readable": true,
-    "title": "...Ready For It?",
-    "title_short": "...Ready For It?",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/435491442",
-    "duration": 208,
-    "rank": 902330,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cdc518fa41acf3e425bb63e58a8aedb8-7.mp3",
-    "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 52612062,
-      "title": "reputation",
-      "cover": "https://api.deezer.com/album/52612062/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-      "tracklist": "https://api.deezer.com/album/52612062/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 435491482,
-    "readable": true,
-    "title": "Delicate",
-    "title_short": "Delicate",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/435491482",
-    "duration": 232,
-    "rank": 890175,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-ffcc9c3bc91ee70e3fca6b7a88ac94fa-6.mp3",
-    "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 52612062,
-      "title": "reputation",
-      "cover": "https://api.deezer.com/album/52612062/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-      "tracklist": "https://api.deezer.com/album/52612062/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 435491472,
-    "readable": true,
-    "title": "Don’t Blame Me",
-    "title_short": "Don’t Blame Me",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/435491472",
-    "duration": 236,
-    "rank": 948968,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1933b457b094f893f9dcae061959e132-7.mp3",
-    "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 52612062,
-      "title": "reputation",
-      "cover": "https://api.deezer.com/album/52612062/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-      "tracklist": "https://api.deezer.com/album/52612062/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 435491492,
-    "readable": true,
-    "title": "Look What You Made Me Do",
-    "title_short": "Look What You Made Me Do",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/435491492",
-    "duration": 211,
-    "rank": 895454,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-ceb7cb4362bceb7e4f362bf9b5c04bb8-8.mp3",
-    "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 52612062,
-      "title": "reputation",
-      "cover": "https://api.deezer.com/album/52612062/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "e6f3afd8a5c3d8ea797f458694166e47",
-      "tracklist": "https://api.deezer.com/album/52612062/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2355587775,
-    "readable": true,
-    "title": "Enchanted (Taylor's Version)",
-    "title_short": "Enchanted (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2355587775",
-    "duration": 353,
-    "rank": 853629,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4a7fb6309089d456e147cb8a79ea908e-6.mp3",
-    "md5_image": "c1613c3579a594bce2ebc77bccfaa4e7",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 461146065,
-      "title": "Speak Now (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/461146065/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "c1613c3579a594bce2ebc77bccfaa4e7",
-      "tracklist": "https://api.deezer.com/album/461146065/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2355587825,
-    "readable": true,
-    "title": "Long Live (Taylor's Version)",
-    "title_short": "Long Live (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2355587825",
-    "duration": 317,
-    "rank": 776986,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab55a2ee1eeaa31c5ea15a546d826c7f-6.mp3",
-    "md5_image": "c1613c3579a594bce2ebc77bccfaa4e7",
-    "time_add": 1697455177,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 461146065,
-      "title": "Speak Now (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/461146065/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "c1613c3579a594bce2ebc77bccfaa4e7",
-      "tracklist": "https://api.deezer.com/album/461146065/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1550966362,
-    "readable": true,
-    "title": "22 (Taylor's Version)",
-    "title_short": "22 (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1550966362",
-    "duration": 230,
-    "rank": 797805,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bc11ea8d0427318bcd506ab8ee089bb4-4.mp3",
-    "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 272247412,
-      "title": "Red (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/272247412/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-      "tracklist": "https://api.deezer.com/album/272247412/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1550966382,
-    "readable": true,
-    "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
-    "title_short": "We Are Never Ever Getting Back Together (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1550966382",
-    "duration": 193,
-    "rank": 774950,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d886b61e8dccb9a1d2ee082ad683ba27-4.mp3",
-    "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 272247412,
-      "title": "Red (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/272247412/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-      "tracklist": "https://api.deezer.com/album/272247412/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1550966342,
-    "readable": true,
-    "title": "I Knew You Were Trouble (Taylor's Version)",
-    "title_short": "I Knew You Were Trouble (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1550966342",
-    "duration": 219,
-    "rank": 834002,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e9484eea104640b0b3761bba6d07ca83-4.mp3",
-    "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 272247412,
-      "title": "Red (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/272247412/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-      "tracklist": "https://api.deezer.com/album/272247412/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1550966602,
-    "readable": true,
-    "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-    "title_short": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1550966602",
-    "duration": 613,
-    "rank": 828432,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-7.dzcdn.net/stream/c-791ddfb106822228cc923c0e45098471-4.mp3",
-    "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 272247412,
-      "title": "Red (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/272247412/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "a98df7a584f8a3f50d4bb312bdbc44ff",
-      "tracklist": "https://api.deezer.com/album/272247412/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765272,
-    "readable": true,
-    "title": "seven",
-    "title_short": "seven",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765272",
-    "duration": 208,
-    "rank": 721434,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-7.dzcdn.net/stream/c-7193c87c269febbf888c9cc8014d6c4b-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765212,
-    "readable": true,
-    "title": "the 1",
-    "title_short": "the 1",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765212",
-    "duration": 210,
-    "rank": 755058,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-50b01ce92176cd72008399656a478b0f-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765342,
-    "readable": true,
-    "title": "betty",
-    "title_short": "betty",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765342",
-    "duration": 294,
-    "rank": 715159,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3c088b9557e76087e6f7f6f96e763f8b-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765232,
-    "readable": true,
-    "title": "the last great american dynasty",
-    "title_short": "the last great american dynasty",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765232",
-    "duration": 231,
-    "rank": 711471,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1038e9c3efe1ffe4a85afdb0e3dceee4-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765282,
-    "readable": true,
-    "title": "august",
-    "title_short": "august",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765282",
-    "duration": 261,
-    "rank": 812416,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e871600971427df48a544337b3c49bcc-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765302,
-    "readable": true,
-    "title": "illicit affairs",
-    "title_short": "illicit affairs",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765302",
-    "duration": 190,
-    "rank": 734291,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0821ba84fc4017efcb7856b60a048ce9-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765252,
-    "readable": true,
-    "title": "my tears ricochet",
-    "title_short": "my tears ricochet",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765252",
-    "duration": 255,
-    "rank": 738383,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ead505ccf63f09e4d622f57e75c63db0-4.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 1053765222,
-    "readable": true,
-    "title": "cardigan",
-    "title_short": "cardigan",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/1053765222",
-    "duration": 239,
-    "rank": 715895,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-7.dzcdn.net/stream/c-74d64fade496a5b85ec5af1d1d240474-10.mp3",
-    "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 167766152,
-      "title": "folklore (deluxe version)",
-      "cover": "https://api.deezer.com/album/167766152/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "290abe93bdda84bb8b170f30a4998c4c",
-      "tracklist": "https://api.deezer.com/album/167766152/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2512293201,
-    "readable": true,
-    "title": "Style (Taylor's Version)",
-    "title_short": "Style (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2512293201",
-    "duration": 231,
-    "rank": 926506,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e1db37c9e913ded34531827fa86e308d-2.mp3",
-    "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-    "time_add": 1699914614,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 504180521,
-      "title": "1989 (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/504180521/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-      "tracklist": "https://api.deezer.com/album/504180521/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2512293191,
-    "readable": true,
-    "title": "Blank Space (Taylor's Version)",
-    "title_short": "Blank Space (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2512293191",
-    "duration": 231,
-    "rank": 929715,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f8f8d4965c60282d0a4bafb53a42036a-2.mp3",
-    "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-    "time_add": 1699914614,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 504180521,
-      "title": "1989 (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/504180521/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-      "tracklist": "https://api.deezer.com/album/504180521/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2512293231,
-    "readable": true,
-    "title": "Shake It Off (Taylor's Version)",
-    "title_short": "Shake It Off (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2512293231",
-    "duration": 219,
-    "rank": 873401,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4518df8236dde2da25d5f0d1d81eeff6-2.mp3",
-    "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-    "time_add": 1699914614,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 504180521,
-      "title": "1989 (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/504180521/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-      "tracklist": "https://api.deezer.com/album/504180521/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2512293261,
-    "readable": true,
-    "title": "Wildest Dreams (Taylor's Version)",
-    "title_short": "Wildest Dreams (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2512293261",
-    "duration": 220,
-    "rank": 840786,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-35dc3866c916847422d8a823febd016b-2.mp3",
-    "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-    "time_add": 1699914614,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 504180521,
-      "title": "1989 (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/504180521/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-      "tracklist": "https://api.deezer.com/album/504180521/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2512293251,
-    "readable": true,
-    "title": "Bad Blood (Taylor's Version)",
-    "title_short": "Bad Blood (Taylor's Version)",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2512293251",
-    "duration": 211,
-    "rank": 850845,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4337cd223f04f5ab7e7b32d71e537a75-2.mp3",
-    "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-    "time_add": 1699914614,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 504180521,
-      "title": "1989 (Taylor's Version)",
-      "cover": "https://api.deezer.com/album/504180521/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/60c1f1896b2f6b4a4a29ca45d314d4bf/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "60c1f1896b2f6b4a4a29ca45d314d4bf",
-      "tracklist": "https://api.deezer.com/album/504180521/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267725,
-    "readable": true,
-    "title": "Lavender Haze",
-    "title_short": "Lavender Haze",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267725",
-    "duration": 202,
-    "rank": 652397,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5ad7b80d593b56fbd319f81936b4e8c5-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267745,
-    "readable": true,
-    "title": "Anti-Hero",
-    "title_short": "Anti-Hero",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267745",
-    "duration": 200,
-    "rank": 656516,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-828a4c6ef4e912f1459f09791d26f863-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267775,
-    "readable": true,
-    "title": "Midnight Rain",
-    "title_short": "Midnight Rain",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267775",
-    "duration": 174,
-    "rank": 652169,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3b6104ea5017ea5706f6da2f858221a4-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267795,
-    "readable": true,
-    "title": "Vigilante Shit",
-    "title_short": "Vigilante Shit",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267795",
-    "duration": 164,
-    "rank": 654233,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e2daa48295092cc92d63d57d412c1987-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267805,
-    "readable": true,
-    "title": "Bejeweled",
-    "title_short": "Bejeweled",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267805",
-    "duration": 194,
-    "rank": 649572,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-65d361185515a5d491cafb004b5d9c18-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267845,
-    "readable": true,
-    "title": "Mastermind",
-    "title_short": "Mastermind",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267845",
-    "duration": 191,
-    "rank": 651317,
-    "explicit_lyrics": false,
-    "explicit_content_lyrics": 0,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-88353554ed2db05ab1344011f3087779-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
-  },
-  {
-    "id": 2300267825,
-    "readable": true,
-    "title": "Karma",
-    "title_short": "Karma",
-    "title_version": "",
-    "link": "https://www.deezer.com/track/2300267825",
-    "duration": 204,
-    "rank": 680631,
-    "explicit_lyrics": true,
-    "explicit_content_lyrics": 1,
-    "explicit_content_cover": 0,
-    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e4c355e15c6ec052157d981fb6e9920c-4.mp3",
-    "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-    "time_add": 1697455024,
-    "artist": {
-      "id": 12246,
-      "name": "Taylor Swift",
-      "link": "https://www.deezer.com/artist/12246",
-      "tracklist": "https://api.deezer.com/artist/12246/top?limit=50",
-      "type": "artist"
-    },
-    "album": {
-      "id": 446218925,
-      "title": "Midnights (The Til Dawn Edition)",
-      "cover": "https://api.deezer.com/album/446218925/image",
-      "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/56x56-000000-80-0-0.jpg",
-      "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/250x250-000000-80-0-0.jpg",
-      "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/500x500-000000-80-0-0.jpg",
-      "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/6d83839dd0534f28751e56dc0bc29ef6/1000x1000-000000-80-0-0.jpg",
-      "md5_image": "6d83839dd0534f28751e56dc0bc29ef6",
-      "tracklist": "https://api.deezer.com/album/446218925/tracks",
-      "type": "album"
-    },
-    "type": "track"
+  "bzrp": {
+    "data": [
+      {
+        "id": 2103405097,
+        "title": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-7246e43a25d54ef684d81a3029b73d7f-12.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/10db12d0096a6f6f9fe9d662a1b238b1/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1811481707,
+        "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5c836fea0b2d2721e82fac79c0a2a3d5-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/29a4bcbb19126ecd9c891f2485eeb66d/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2304090785,
+        "title": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9bb6c507248ccf4746d8494377a64825-7.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/bf0142bb487f9d359a55f9077f916765/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2482772641,
+        "title": "Milo J: Bzrp Music Sessions, Vol. 57",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-09df98004a9cf23da08993b63937c095-2.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/ea4ac18b3359ba84af9023d6c4b86096/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1577401372,
+        "title": "Morad: Bzrp Music Sessions, Vol. 47",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e3fe493693fa87f04ab1ae73e10910ae-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/627a083f14ddc15a7f8e7755ff521d58/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2203675167,
+        "title": "Arcángel: Bzrp Music Sessions, Vol. 54",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0e99eb2f371ad2ed641dda4b5004fdb0-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/33a29061709721a5afc47e1de7181b6c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 750835382,
+        "title": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0d4b3ace6b95d443d3c6371396fb7937-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/c579f855917d576b68b96c4a3e6bbcc0/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2015618647,
+        "title": "Duki: Bzrp Music Sessions, Vol. 50",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2026701962396e9ae24c4660cd478da5-8.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/b5e0b5ea50caa9f63b7e7155e7fd84e1/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 2334934765,
+        "title": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "preview": "https://cdns-preview-f.dzcdn.net/stream/c-fdfb6e1b8a9d9f6f24fd8600095879d5-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/83789d510b5a49318d8897f5a98979de/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1779614647,
+        "title": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e7d2131636c44c4f6b0ba27213c3e141-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/73687726b798bcdb3ad257c96bce12dd/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1674827497,
+        "title": "Residente: Bzrp Music Sessions, Vol. 49",
+        "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8da9dd82490c7d155de056113c38d59b-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/2dc69648e59c704ad3a1a00b740b04c9/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1511133832,
+        "title": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab8625197d46d253fe6b02206b9ecfd7-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/cb43468085a4f6f89b79b301a52606b1/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933465767,
+        "title": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5567d9e6d110ed9c11823f009bbd0eac-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6584cd6001d01d2e9cf75399050960b9/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 730211372,
+        "title": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2efd2dc1e64f99b5d2be64b977ad6100-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/33295ddb23277b9348e415cf5addca06/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933539347,
+        "title": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ea495bde263691e978641638ce72715d-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/09fbe2612908d774ed7feeb3ce77d813/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1155579082,
+        "title": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a454d5c6ee5b07c0dd75b9b461041183-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/68ee65adf99867cca7cf1ce1a4370b2d/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1392820862,
+        "title": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ec4e7fe75af506806c1ba904e6aca7a1-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a6618bb5b527b96e363c1c64891f1c4e/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1004811582,
+        "title": "Zaramay: Bzrp Music Sessions, Vol. 31",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2d1043340b369cb3368174ab8331a05e-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/95e3e90c1fb85d0ade22ace1865e7692/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 964708392,
+        "title": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8082c8d7cce7d68be824a20697b21612-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/db89d43cf787b5cc8b5ccde25e429ac8/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 766893182,
+        "title": "Trueno: Bzrp Music Sessions, Vol. 16",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b9604b228021a7eaf380853002456f17-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/8a98fc92fedceaeee7e0f6ccb5f663da/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1088504032,
+        "title": "KHEA: Bzrp Music Sessions, Vol. 34",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1b5f82f8bc97912c003f3d8c40d8d6e7-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/502c549d9d074a435d203cdb6281d28f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1035133372,
+        "title": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9baa0922c2926f8a00cbf1272de38672-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/2410c3844d29736dd9cf987b05a66f58/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1489335662,
+        "title": "MHD: Bzrp Music Sessions, Vol. 44",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-613aa4e233586f07d95861da9d971eb0-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/3e9475bf6e8ec5284402fae7cbce244d/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933474937,
+        "title": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4e5f54799032900ce5782e4ef578dbd2-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/1b36c7fa9fa04a5e70d4398196f5cbcb/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1536083052,
+        "title": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+        "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f9f905c202b8f846125da3271cbfa4a7-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e28b196895d6d0eb5ecdc87bb0599720/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1220574822,
+        "title": "YSY A: Bzrp Music Sessions, Vol. 37",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6ca03d4e4f5ba0693f26581d1f642b8a-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/ee7e8891ab6b606bb1a6c8ae6dda760f/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1416219022,
+        "title": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-262061423f56121c489f7cf42b806650-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/28a104674c67263c6e9f1e632967be29/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933513057,
+        "title": "Dani Ribba: Bzrp Music Sessions, Vol. 24",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0be44a19fb9e0e2a0a7f0dff85912f2c-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e81e4fd54c0b709a5020678befb8ce14/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 775951542,
+        "title": "Frijo: Bzrp Music Sessions, Vol. 10",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5885a297cdc9ec3918ba455def4f1e8c-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/ec311912e9e1a56fd17c9d44129a4014/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 775951552,
+        "title": "Dillom: Bzrp Music Sessions, Vol. 9",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2f4ca7bad6f20aa46db32407ac638cf9-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/bdf821eb26069c32b8251f7c7a2a7d4b/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933495097,
+        "title": "Asan: Bzrp Music Sessions, Vol. 35",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5a2a67de0e1c1a14c1169b11460fb385-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a08d06f4065412b242e6a28d51ef746c/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933521377,
+        "title": "Mesita: Bzrp Music Sessions, Vol. 12",
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3f5c5316e54f3427217ed92b1df4a215-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/65413aac022216e36be9571ca66b428d/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1472132882,
+        "title": "Chucky73: Bzrp Music Sessions, Vol. 43",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b1d94a2f1bb5e4e56ac7ec2ad098fb93-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/588db7412100999051a3b44dee3637b5/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1064642102,
+        "title": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a6fdc80f209410bc525c1adf30f52dec-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/082167069f0df3d50e5bb9f66a7d8598/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 776777102,
+        "title": "Paco Amoroso: Bzrp Music Sessions, Vol. 3",
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-24d38a21a82238dfed56d82b7d1a2d90-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/ed49c27b9430f1e2891246989e981018/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 947804442,
+        "title": "Big Soto: Bzrp Music Sessions, Vol. 28",
+        "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9db7ed1ccfb1b48658de614fd24c6250-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e7184bc33c3fa87cfcf09da0b84c8b17/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933526857,
+        "title": "Don Patricio: Bzrp Music Sessions, Vol. 25",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e098b0f9957d288b83213b90cdfcee6b-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/f76690a83a3639518d44b0a212ee2fb3/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 807493152,
+        "title": "John C: Bzrp Music Sessions, Vol. 18",
+        "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9f2f701d86c4c578de768125911b6f9c-4.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/9ee8863c32864f32acdc7d914cc8d5a5/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 847490552,
+        "title": "Neutro Shorty: Bzrp Music Sessions, Vol. 21",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d5463ca7de7f979d178e0caa4dae97c1-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/419895516f6a4be14ebefd50a1f9663a/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 843613372,
+        "title": "Louta: Bzrp Music Sessions, Vol. 20",
+        "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c9b9cbd7b23557b82ca461808a882acf-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/036a595e937691f992fc3fab8433ee47/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1265852952,
+        "title": "L-Gante: Bzrp Music Sessions, Vol.38",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d9a2076f4fc5a53ccc29a30ebd331993-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/e9f9914f0bdead7bc4b82b03108540c6/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933474597,
+        "title": "Drefquila: Bzrp Music Sessions, Vol. 7",
+        "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0cbf9f6d7a208135996874ac165132c3-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/d03b69fe729c6d8d8d2c2e6913fc0fa5/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 776776452,
+        "title": "Zanto: Bzrp Music Sessions, Vol. 8",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-62636dfefbc801b532dccdc5c4663607-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/41f2c0fecb326da7cafccb2e9ad8c165/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933525747,
+        "title": "Kodigo: Bzrp Music Sessions, Vol. 6",
+        "preview": "https://cdns-preview-1.dzcdn.net/stream/c-139e69d73d19046c2a96edd95817a832-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/4b7b211de47e8f8eb542587f5539e7c2/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 853917302,
+        "title": "Lalo Ebratt: Bzrp Music Sessions, Vol. 22",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6433169be3d88ef58aa434b0e854b0f1-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/40b86b1198a60d4bd638ad2a0afb23b7/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 775951442,
+        "title": "Pekeño 77: Bzrp Music Sessions, Vol. 5",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bc5625945ecdecb2e5fe2f39b60a5ae4-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/6b6729180f7a1b3ec2f850faf3ebb648/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 930601412,
+        "title": "Bejo: Bzrp Music Sessions, Vol. 27",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-79ade2918a757095b423e3c9d66486e1-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a3cbcba2b0c19cb9987cbf113144c5d5/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933524277,
+        "title": "Kiddo Toto: Bzrp Music Sessions, Vol. 11",
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a76efef1491951a9c5041a2b5c63c0e6-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/a71f01922d60af879975c267cf44f9ac/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 776775822,
+        "title": "Ecko: Bzrp Music Sessions, Vol. 2",
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b9ed232c5eb3b86da6fd24b98fe6731e-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/64043bea2990efa078a8b36abeab90dc/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933510397,
+        "title": "Blunted Vato: Bzrp Music Sessions, Vol. 4",
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3f57913551ad25345b9fc7ea87db35d8-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/7beb77274f72ff7b6d609b3f8d499a77/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 743012802,
+        "title": "CA7RIEL: Bzrp Music Sessions, Vol.14",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e14204c15b331da1e2843a182394d687-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/173d9ef1f62329504102864af846333e/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 782891892,
+        "title": "Kinder Malo: Bzrp Music Sessions, Vol. 17, Lado B",
+        "preview": "https://cdns-preview-6.dzcdn.net/stream/c-607069021406ee619b9448440d5bda38-6.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/9b19fdc58f43094f3650add8e4749e40/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 780129882,
+        "title": "Kinder Malo: Bzrp Music Sessions, Vol. 17, Lado A",
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef83a751ae9c4fcbf5f237fa16a4404e-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/294c1df6130d38d12d2743ec1b541f65/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 822504262,
+        "title": "Polimá Westcoast: Bzrp Music Sessions, Vol. 19",
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-daa4b6e90cb0942084dcd9eca251bd12-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/519f7bc59c9beae6e18d2c470ce0451b/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 914575742,
+        "title": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
+        "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5f6ab8b937fa0b13aea4f36b7c750ec0-5.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/2e5ae5e58a5eb4729156ec2c7d71f5eb/1000x1000-000000-80-0-0.jpg"
+      },
+      {
+        "id": 1933510407,
+        "title": "HOMER EL MERO MERO: Bzrp Music Sessions, Vol. 30",
+        "preview": "https://cdns-preview-7.dzcdn.net/stream/c-709ce44f51b205c0e18fa6c8d3f62d7d-3.mp3",
+        "img": "https://e-cdns-images.dzcdn.net/images/cover/9b19f2a053d7d52315f7933b0e64c88a/1000x1000-000000-80-0-0.jpg"
+      }
+    ]
   }
-]
+}
