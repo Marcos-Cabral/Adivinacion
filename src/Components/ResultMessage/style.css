@@ -1,14 +1,24 @@
 .modal-msg {
     color: #313638;
     text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .correct {
     color: #53DD6C !important;
     font-weight: bold;
+    margin: 10px;
+    font-size: xx-large;
 }
 
 .incorrect {
     color: #F06543 !important;
     font-weight: bold;
+    margin: 10px;
+    font-size: xx-large;
 }

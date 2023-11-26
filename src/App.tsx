@@ -1,7 +1,6 @@
 import Game from './Components/Game/Game';
 import { useGameContext } from './Context/GameContext';
 import './App.css';
-import x from './tracklists.json';
 import React, { useState } from 'react';
 import GeneralSettingsModal from './Components/GeneralSettingsModal/GeneralSettingsModal';
 
@@ -13,14 +12,7 @@ const App: React.FC = () => {
     setModalVisible(!modalVisible);
   };
 
-  var d = '';
-
-  Object.keys(x).forEach(artist => {
-    d = d +  artist + " ,";
-  });
-
-  console.log(d);
-   return (
+  return (
     <div className='container'>
       {!theme || modalVisible ? (
         <GeneralSettingsModal onClose={handleModal} />

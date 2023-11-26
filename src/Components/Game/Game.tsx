@@ -18,7 +18,7 @@ export interface Track {
 }
 
 const Game: React.FC = () => {
-    const { theme, difficulty } = useGameContext();
+    const { theme, difficulty, setScore, score } = useGameContext();
     const [modalVisible, setModalVisible] = useState<boolean>(false);
     const [guessed, setGuessed] = useState<boolean>(false);
     const [gameState, setGameState] = useState<GameState>({
@@ -32,6 +32,7 @@ const Game: React.FC = () => {
     const showModal = (guessed: boolean) => {
         setGuessed(guessed);
         setModalVisible(true);
+        setScore(guessed ? score + 1 : 0);
     };
 
     const generateOptions = () => {
@@ -54,7 +55,7 @@ const Game: React.FC = () => {
 
     useEffect(() => {
         generateOptions();
-    }, []);
+    }, [theme]);
 
     const playSong = () => {
         let duration = 0;
@@ -64,9 +65,12 @@ const Game: React.FC = () => {
                 duration = 5000;
                 break;
             case 'Normal':
-                duration = 2000;
+                duration = 3000;
                 break;
             case 'Difícil':
+                duration = 1000;
+                break;
+            case 'Insano':
                 duration = 500;
                 break;
             default:
@@ -74,7 +78,7 @@ const Game: React.FC = () => {
                 break;
         }
         if (audioRef.current) {
-            audioRef.current.currentTime = 0;
+            audioRef.current.currentTime = 10;
             setIsPlaying(true);
             audioRef.current.play();
             setTimeout(() => {
@@ -91,7 +95,7 @@ const Game: React.FC = () => {
             closeModal();
             setIsPlaying(false);
             if (audioRef.current) {
-                audioRef.current.currentTime = 0;
+                audioRef.current.currentTime = 10;
                 audioRef.current!.pause();
             }
         }, 1500);

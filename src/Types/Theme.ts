@@ -18,4 +18,5 @@ export enum Theme {
     CharlyGarcia = 'Charly Garcia',
     Iorio = 'Iorio',
     CristianCastro = 'Cristian Castro',
+    DuaLipa = 'Dua Lipa'
 }

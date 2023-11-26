@@ -9,11 +9,16 @@ interface GeneralSettingsModalProps {
 }
 
 const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) => {
-    const { setTheme, difficulty, theme, setDifficulty } = useGameContext();
+    const { setTheme, difficulty, theme, setDifficulty, setScore } = useGameContext();
     const [selectedTheme, setSelectedTheme] = useState<Theme | null>(theme);
     const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>(difficulty);
 
-    const difficulties: Difficulty[] = ['Fácil', 'Normal', 'Difícil'];
+    const difficulties: Difficulty[] = [
+        Difficulty.Facil,
+        Difficulty.Normal,
+        Difficulty.Dificil,
+        Difficulty.Insano,
+    ];
     const themes: Theme[] = [
         Theme.TaylorSwift,
         Theme.Bzrp,
@@ -34,7 +39,8 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
         Theme.CharlyGarcia,
         Theme.Iorio,
         Theme.CristianCastro,
-    ];
+        Theme.DuaLipa
+    ].sort((a, b) => a.localeCompare(b));
     const handleSetDifficulty = (difficulty: Difficulty) => {
         setSelectedDifficulty(difficulty);
     };
@@ -47,9 +53,16 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
         if (selectedTheme) {
             setTheme(selectedTheme);
             setDifficulty(selectedDifficulty);
+            setScore(0);
             onClose();
         }
     };
+
+    function handleCloseBtn() {
+        if (theme) {
+            onClose();
+        }
+    }
 
     return (
         <div className="modal-background">
@@ -73,7 +86,7 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
                 </div>
                 <div className='difficulty-section'>
                     <div>
-                        <h2 className='label-config'>Dificultad</h2>
+                        <h2 className='label-config'>Duración</h2>
                         <span className='info-difficulty'>La dificultad modifica la duración de la canción al momento de adivinarla.</span>
                     </div>
                     <div className='difficulty-container'>
@@ -94,6 +107,7 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
                     </div>
                 </div>
                 <div className="button-container">
+                    <button className="close-button" onClick={handleCloseBtn}>Cerrar</button>
                     <button className="save-button" onClick={handleSaveTheme}>Guardar</button>
                 </div>
             </div>

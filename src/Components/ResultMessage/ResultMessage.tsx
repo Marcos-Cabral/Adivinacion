@@ -11,11 +11,12 @@ const ResultMessage: React.FC<ResultMessageProps> = ({ guessed, title }) => {
   const message = guessed ? "Correcto!" : "Fallaste!";
 
   return (
-    <p className={`modal-msg`}>
-      <span className={resultClass}>
-        {message}
-      </span> era {title}
-    </p>
+    <div className={`modal-msg`}>
+      <h4 className={resultClass}>{message}</h4>
+      <span className="">
+        Era "{title}"
+      </span>
+    </div>
   );
 };
 
