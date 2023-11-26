@@ -72,6 +72,7 @@
     padding: 20px;
     box-sizing: border-box;
     color: #313638;
+    text-wrap: wrap !important;
 }
 
 .selected {
@@ -155,7 +156,6 @@
         align-items: center;
         text-align: center;
         font-size: 0.8em;
-        text-wrap: wrap;
     }
 
     .difficulty-btn {
