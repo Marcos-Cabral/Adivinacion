@@ -36,9 +36,15 @@ const Game: React.FC = () => {
     };
 
     const generateOptions = () => {
+        const previousCorrectOption = gameState.correctOption;
+        const previousOptions = gameState.options || [];
         const shuffledIndexes: number[] = [];
         while (shuffledIndexes.length < 3) {
             const newIndex: number = Math.floor(Math.random() * trackList[theme!].data.length);
+            if(previousOptions.length && previousOptions[previousCorrectOption!].id == trackList[theme!].data[newIndex].id){
+                continue;
+            }
+
             if (!shuffledIndexes.includes(newIndex)) {
                 shuffledIndexes.push(newIndex);
             }
