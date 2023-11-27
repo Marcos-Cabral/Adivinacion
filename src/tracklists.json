@@ -5886,5 +5886,685 @@
         "img": "https://e-cdns-images.dzcdn.net/images/cover/aa1d69846672398d397889514cc095a9/1000x1000-000000-80-0-0.jpg"
       }
     ]
+  },
+  "Robleis": {
+ "data":[
+  {
+    "id": 2514740341,
+    "title": "Cada Vez",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8d6d5889b61c4dd1de3982aa7ad4ad9a-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/536f1550fb04b1f444232c1bf20fb742/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2514740331,
+    "title": "No Estoy Exagerando",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-838d09277ee86cd0de21046c5e3bd688-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/536f1550fb04b1f444232c1bf20fb742/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2514740321,
+    "title": "Frio",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-fd8fca9b52900628c9b6b828ca729537-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/536f1550fb04b1f444232c1bf20fb742/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2514740311,
+    "title": "Tiempo Para Vos",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c749a8b56e0e67467e77f63da2eb0812-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/536f1550fb04b1f444232c1bf20fb742/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2514740301,
+    "title": "Huracán",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-13e546ddb53d74c9465d6c23f687bb2e-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/536f1550fb04b1f444232c1bf20fb742/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2477805791,
+    "title": "Lloré",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c1b42e411cad88492d1f21c6f3c4ce47-1.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/176dbe48c70e819aac8d5af4b97756ff/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2407990415,
+    "title": "TKM",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4d0131021fb79657b86115e892cbbfc2-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/c525ef91b24c5d90bd19abc71c190db8/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2338520465,
+    "title": "LORO",
+    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6f609cfc8e4c1a44233ba1a513267616-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/bac07d99201abcb41879a1637d367e63/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2300897915,
+    "title": "bien x vos",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-157120a342de82b99f47af7fd376254d-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/8e4d5d18806896ccdb4a7bbed34071ab/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2285602377,
+    "title": "Tomi",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a864e25428680abc0fa1e4c6f7714330-4.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/6124fd0e909703206ef7ccca47ae57e1/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2237936187,
+    "title": "Tu Despedida",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-54cb3bd4e254478c9555849a53b75229-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/a41ae6e43e40970a2fbf71b710552cc2/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2162423947,
+    "title": "MOTORES",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-58da773a9518940ec98ad557975999d4-4.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/92dfb0739aa3bc8fb40cd8c0e3a208af/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2032260517,
+    "title": "Fugitivo",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bf8dbfb30a1748c8ba800abcf9d286eb-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/c99a562913c01b9e18af4f0dc453b6d1/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1912170237,
+    "title": "ASCENSOR",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4ac17b6de10c35ebeff5f1de452128f3-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/62b68b60d4bd15f50c3c1236b504879c/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1840210127,
+    "title": "OMG",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5be0e18fc186147e18d75d885791ab0b-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/02fbb4877f92b48cc6c52ec73924a853/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1821845497,
+    "title": "Te Esperaré",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-3f0e93a9423b61bb9c2cd3f5d16126e1-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/c78bd560fec1244906a6799e17d3830d/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1776740777,
+    "title": "IDIOTA",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-260bf9d8423976bad61901b60a8c3ac9-4.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/789748bd79cde697bc23eb7e93e1d2fd/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1714419417,
+    "title": "Vos (Ensayo Luna Park)",
+    "preview": "https://cdns-preview-0.dzcdn.net/stream/c-0f0d746e55bc794df366c7104d75b785-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/89a6a53b73dfda0ebee5a9e413a9aaa1/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1701056067,
+    "title": "A Fuego",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8323db82244469584d3ab255ad569652-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/da019c9c25d65ec10c5d68b63854a876/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1689532937,
+    "title": "Escondido",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-10f0e7486fdae208f232e27eecb24e37-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/4a1ccf11a71023102b60a239a746ebec/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1674647847,
+    "title": "SOLO",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bba04fb3acd41543061aff58d2fa85ff-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/a6a377ba141ed187abaf54db01d4db47/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1564729932,
+    "title": "Una Noche Más",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-92380ed3551e1d49f81ba94ab80ba568-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/9942220e85dac0c94ba6fde3fb2419ef/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1530483442,
+    "title": "SEÑAL",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2b26b2823e70939300248e7259b3bec4-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/a4383721099b2833f825aa7631ef5684/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1504361492,
+    "title": "MALA",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cff98eb6e85a7cc6fd8cf83864d98073-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/80d2ca556d284e6929cd6372e8dcd81e/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1470185472,
+    "title": "Portal",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-be0685de52b27c0e7331a8551776f074-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/196093c281cf5cae107a000c6131de95/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1467374242,
+    "title": "Dejalo Atrás (Acústico)",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-dcb54206e9930a852aa0db3b7e6de965-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/3342922679a46714091a0c7cafe28cc4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1349392052,
+    "title": "BONUSTRACK",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-361d95201fccffaf4d758be92a033a12-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/54c5fe617378b511dad8ab3341fe75fd/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1277765962,
+    "title": "Por el Aire",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-93d48208d3c5602e300905fc3741dd5c-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/d453982aafa49a85c565557f3f4612fe/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1238847452,
+    "title": "Dejalo Atrás",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d1e5dc37ca599f0d71c846df782b7068-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/d8d2d7ae5da449548ad7ee729b6e0238/1000x1000-000000-80-0-0.jpg"
   }
+]
+},
+"Ed Sheeran":{
+   "data":[
+  {
+    "id": 2470364725,
+    "title": "American Town",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-840423c9176b541ee1fe3381781350de-1.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/382c67d648b5325a8f8f3892fa96b267/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2196044807,
+    "title": "Eyes Closed",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-57148c8d49629f9eaf23eb35952c7ec0-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/84254ff83cd57208458a37187dc3cf17/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875064,
+    "title": "Thinking out Loud",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2c5807cf009b065b576c7781973241ef-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 139470659,
+    "title": "Shape of You",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d8f5b81a6243ddfa4c97b9a4c86a82fa-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/107c2b43f10c249077c1f7618563bb63/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651702,
+    "title": "The A Team",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5cb3b1c9868750405b9f9cbdb65c7256-12.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2470364375,
+    "title": "Magical",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d410d21f57f61b1a250b202ece3fd5b1-1.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/382c67d648b5325a8f8f3892fa96b267/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073517,
+    "title": "Curtains",
+    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6c396bd2e3b7bc86642309803e8df5bf-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1484264492,
+    "title": "Shivers",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d2a7124d339140850e7758942497a86e-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/38f1360bb17de383d44962a2a07d214f/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 139470657,
+    "title": "Castle on the Hill",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a91b6819c1de627ea291bbc69b77019c-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/671dda732469a866e38717e5c891628d/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875054,
+    "title": "Photograph",
+    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-ebc5cfa3c7e0fbd4efd668f3a07f17c1-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651710,
+    "title": "Lego House",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8c873783ffd9cbe3ad27958a387ef4cb-7.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2239140007,
+    "title": "Boat",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cf51d251e5cc84a6c47113dcc84dbee0-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/24e7956ddadc95108c5a03312b32e6fa/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986206,
+    "title": "Perfect",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f4d04fa22ff3cc680cad30eea149cc1d-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1409072752,
+    "title": "Bad Habits",
+    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e418ea9b43553bdaddc74fcad6649ec3-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/63af28b4e046c59293eaf313be13f8f7/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2470364415,
+    "title": "Blue",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c92e19b2467b9a100a83b7f4e7a3406f-1.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/382c67d648b5325a8f8f3892fa96b267/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1881236417,
+    "title": "Celestial",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-401572c2a508ed18adf42458d4a62b12-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/071d98c499ef37a3fd97deccec955e79/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073487,
+    "title": "End Of Youth",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-36fb262593f716e4887e0df10ce46789-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 77387146,
+    "title": "Sing",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f26e5fc2e3e9c7210d4fdc1706d1d137-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986208,
+    "title": "Galway Girl",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-8f69ce870b8607a332b953174c57a39b-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1525826682,
+    "title": "I Don't Care (with Justin Bieber)",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a3fa0c2e63cd74b2c9effd429c44fd63-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/87094decc57635e9c54eb0b4d19ec71c/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073547,
+    "title": "Vega",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b83ee9974984809b9633ab9d1083545f-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509482,
+    "title": "Overpass Graffiti",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b3c0e379974d5b4ad3e7c755d80352cd-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651729,
+    "title": "Give Me Love",
+    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-eb58fadc649b568982f0968cbedf6f8c-8.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875058,
+    "title": "Tenerife Sea",
+    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e6ae5865fad3629f8e4cd191e0e6ad1e-4.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073587,
+    "title": "The Hills of Aberfeldy",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-31131be3d5e72958cd01bcfb9d7ee853-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 703496412,
+    "title": "Beautiful People (feat. Khalid)",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-972dee2305330e6172e439ffba1d18f3-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/28b9299902c9cc9cd40f00507a3d1f13/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2107331527,
+    "title": "F64",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-475030ad9f03086d73132ef246c9a50b-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1e5defe01c8e79635c822370ceb0f04b/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651703,
+    "title": "Drunk",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-fbe7aeea400d8d9347076a232e01a79a-12.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1713676777,
+    "title": "2step (feat. Lil Baby)",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-36b3d716edad7b61a78bccba76d457ca-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/d499238ca338fd93fe0ffb6969d37054/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875050,
+    "title": "Don't",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c9f2d4d9410bc20344a80cb2e5310ef0-11.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 710164312,
+    "title": "South of the Border (feat. Camila Cabello & Cardi B)",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5d8e5d6e2c520e371add148c1301cc0d-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986210,
+    "title": "Happier",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9b8f9599b5c68303edbff64cee211f78-9.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073557,
+    "title": "Sycamore",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ae2667ca6940829b6128173ede39f13c-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1462929832,
+    "title": "Visiting Hours",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a15241488b1317b8076f7b3fe8feb6a3-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/d246a5043dc5584071a4a866381c11f1/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651711,
+    "title": "You Need Me, I Don't Need You",
+    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6099cc85d14f7418e06ca131c1af8d69-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1185987322,
+    "title": "Afterglow",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-fdd815151ed115e06243193ba3c0be7b-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/4bfa41d8d025e1aa72a71d71302e0cc6/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073467,
+    "title": "Life Goes On",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-de1dc2a4559fb3ef0c315d01d5f30e58-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986220,
+    "title": "Supermarket Flowers",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1f05fc52ee2947e7c371d3d8489db540-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073477,
+    "title": "Dusty",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c742e1b3f12b44f328c519caaba64dbd-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 710164392,
+    "title": "Put It All on Me (feat. Ella Mai)",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-13e718b89ebe8f814d1761addc4cd46e-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073447,
+    "title": "Salt Water",
+    "preview": "https://cdns-preview-7.dzcdn.net/stream/c-7def80c1a66dffea19653d671b63d352-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 73135389,
+    "title": "I See Fire (From \"The Hobbit - The Desolation Of Smaug\")",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-980372a5c51e9541550b8659d4fe1127-8.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/69839c8b21c5f526f7ac15b13eafb147/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073497,
+    "title": "Colourblind",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bfd3ea3aedb7e6bf1d4a3ea27d3fa6b4-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986216,
+    "title": "What Do I Know?",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4950545b4c0835fe04dc5268b2a8bf63-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073527,
+    "title": "Borderline",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-338b4efad78df89e2a05d2b27ea64c31-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509462,
+    "title": "First Times",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d829c8f31c730131c82d7df025912052-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651712,
+    "title": "Kiss Me",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-55ae61e79ad240beadecb15097cd365c-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073537,
+    "title": "Spark",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c4f167433e10ac3912d3e0ec9221d060-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986202,
+    "title": "Dive",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d812f58849e9e7c74899db7a29b79584-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875056,
+    "title": "Bloodstream",
+    "preview": "https://cdns-preview-0.dzcdn.net/stream/c-080fb0afa7db99d4a18aeec307502815-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073567,
+    "title": "No Strings",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-28c55f421aa8013796c22898a222fccf-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1645259512,
+    "title": "The Joker And The Queen (feat. Taylor Swift)",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9a76328c7c452a5f782e83b5138875a8-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/3497a0cbe870d0581b15b2abefad46b3/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073597,
+    "title": "Wildflowers (Bonus Track)",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c240bcc25d47c4bd7d5a76dba8107f34-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 710164332,
+    "title": "Take Me Back to London (feat. Stormzy)",
+    "preview": "https://cdns-preview-3.dzcdn.net/stream/c-347ea9e8fd1732988cdfb161b97d1168-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509512,
+    "title": "Collide",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a1644050895eb5181c48fea8339cf515-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986218,
+    "title": "How Would You Feel (Paean)",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9fb45b4c0151f67ca5baa6b29c9758f0-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 79875046,
+    "title": "I'm a Mess",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-48f4ea132117661002dbb71bcd8e982b-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073607,
+    "title": "Stoned (Bonus Track)",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-959bc93d02ac44d112192094b060611e-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986222,
+    "title": "Barcelona",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-85038a610f59d3358636f9ba6a0ddb31-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 13651707,
+    "title": "Small Bump",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-aeac33dae14fac0a053643df4be32e4c-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/b9dc81301e73f9fe31362858febcef03/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1592733101,
+    "title": "Peru",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5b6f0c0073709ad9fff872a07110aaea-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/8aad871a69151cfd7c45139cb7215831/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 78367482,
+    "title": "All of the Stars",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-23622ac62d8cdc8a92ac5abb67956df4-8.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/3090be409134f80e9cdd363870917c1e/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073617,
+    "title": "Toughest (Bonus Track)",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-888cb0d8cd1a5e1a05dc442b0fa3fc0d-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509542,
+    "title": "Love In Slow Motion",
+    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6ffb44b429026c92795157b5b9a714a9-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1666673152,
+    "title": "Bam Bam (feat. Ed Sheeran)",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c9cc99dd5d39be33e4b9a1a4b299725b-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/28cb1aaa68fe58feccb15f023ef2e5d1/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 111599576,
+    "title": "Touch and Go",
+    "preview": "https://cdns-preview-5.dzcdn.net/stream/c-5fddaf35450a432feb94670dec49ac3f-7.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/92dad19be1e872b122fc6d62ed02f7fd/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986224,
+    "title": "Bibia Be Ye Ye",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-ba7b1c4bbfdbe5f8a303577307c06911-7.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509502,
+    "title": "Leave Your Life",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cbfc83cd8ca8699229d1f763644d2df7-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 710164342,
+    "title": "Best Part of Me (feat. YEBBA)",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-1a60e6edaeabe2deb4b13deaced20681-5.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986200,
+    "title": "Castle on the Hill",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a91b6819c1de627ea291bbc69b77019c-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1814473477,
+    "title": "For My Hand (feat. Ed Sheeran)",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c60ba2c3b5d18ff6752c610db5079823-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/bcca4e48f0fca1f8fc63946c3b661198/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509442,
+    "title": "Tides",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9bb6fb04580a3010e1cc69a3f9dbc7a9-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 2256073627,
+    "title": "Moving (Bonus Track)",
+    "preview": "https://cdns-preview-4.dzcdn.net/stream/c-43b67d6a666894951ce17530dde601b7-2.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/1772b2b20b8f99b48a5226c327ad0906/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986212,
+    "title": "New Man",
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-866bbb03a1c543ca5cf794c431ff428d-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 684267022,
+    "title": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a507dd3711553a57a6788fc96549de4b-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/53c94ac88c0ef5b16eff89d5096250b9/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509532,
+    "title": "Stop The Rain",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d2b094705e6461066c00c3b7c01a91a2-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986214,
+    "title": "Hearts Don't Break Around Here",
+    "preview": "https://cdns-preview-d.dzcdn.net/stream/c-d7ae5f652f4ba33063769d840b4becfb-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 423029602,
+    "title": "Boa Me (feat. Ed Sheeran & Mugeez)",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-2cf46453cbaf3c619ddd431c1ade1992-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/2335016dcecc4a841c48343ee9f191d0/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509562,
+    "title": "Sandman",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b197f1d47b8977b5facd6b21b0172e8a-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 142986228,
+    "title": "Save Myself",
+    "preview": "https://cdns-preview-0.dzcdn.net/stream/c-02adc12927737362640df3b546c2a12a-6.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1696474867,
+    "title": "Sigue",
+    "preview": "https://cdns-preview-6.dzcdn.net/stream/c-69002119e7d4218af3a83248609e3b08-4.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/bdc58f94cb88b009ffa4c2136e99ec17/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 1529509572,
+    "title": "Be Right Now",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a5e7c133aab3a3e89b8bafa9224cfa66-3.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/1000x1000-000000-80-0-0.jpg"
+  },
+  {
+    "id": 540175,
+    "title": "...Baby One More Time",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-cd9497093c088d198b226e058044787d-7.mp3",
+    "img": "https://e-cdns-images.dzcdn.net/images/cover/bd904e47db5549124f099c1fef304dc9/1000x1000-000000-80-0-0.jpg"
+  }
+]
+}
 }
