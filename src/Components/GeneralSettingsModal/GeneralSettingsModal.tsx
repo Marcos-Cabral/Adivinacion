@@ -39,7 +39,9 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
         Theme.CharlyGarcia,
         Theme.Iorio,
         Theme.CristianCastro,
-        Theme.DuaLipa
+        Theme.DuaLipa,
+        Theme.Robleis,
+        Theme.EdSheeran
     ].sort((a, b) => a.localeCompare(b));
     const handleSetDifficulty = (difficulty: Difficulty) => {
         setSelectedDifficulty(difficulty);
