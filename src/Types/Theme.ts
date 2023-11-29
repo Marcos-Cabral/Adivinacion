@@ -20,7 +20,12 @@ export enum Theme {
     CristianCastro = 'Cristian Castro',
     DuaLipa = 'Dua Lipa',
     Robleis = 'Robleis',
-    EdSheeran = 'Ed Sheeran'
+    EdSheeran = 'Ed Sheeran',
+    JustinBieber = 'Justin Bieber',
+    Anime = 'Anime',
+    Juegos = 'Juegos',
+    Disney = 'Disney',
+    SelenaGomez = 'Selena Gomez'
 }
 export const themes: Theme[] = [
     Theme.TaylorSwift,
@@ -44,5 +49,10 @@ export const themes: Theme[] = [
     Theme.CristianCastro,
     Theme.DuaLipa,
     Theme.Robleis,
-    Theme.EdSheeran
+    Theme.EdSheeran,
+    Theme.JustinBieber,
+    Theme.Anime',
+    Theme.Juegos,
+    Theme.Disney,
+    Theme.SelenaGomez
 ].sort((a, b) => a.localeCompare(b));
