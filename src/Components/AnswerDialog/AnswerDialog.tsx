@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import ResultMessage from '../ResultMessage/ResultMessage';
 import { useGameContext } from '../../Context/GameContext';
 

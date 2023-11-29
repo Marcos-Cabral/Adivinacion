@@ -28,7 +28,7 @@ const GameContext = createContext<GameContextType>({
     setScore: () => { },
     options: [],
     setOptions: () => { },
-    resetOptions: (array: Track[]) => { },
+    resetOptions: () => { },
 });
 
 export const useGameContext = () => useContext(GameContext);
