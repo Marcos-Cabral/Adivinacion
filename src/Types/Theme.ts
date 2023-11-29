@@ -51,7 +51,7 @@ export const themes: Theme[] = [
     Theme.Robleis,
     Theme.EdSheeran,
     Theme.JustinBieber,
-    Theme.Anime',
+    Theme.Anime,
     Theme.Juegos,
     Theme.Disney,
     Theme.SelenaGomez
