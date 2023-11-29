@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useGameContext } from '../../Context/GameContext';
-import { Theme } from '../../Types/Theme';
+import { Theme, themes } from '../../Types/Theme';
 import './style.css';
-import { Difficulty } from '../../Types/Difficulty';
+import { Difficulty, difficulties } from '../../Types/Difficulty';
 
 interface GeneralSettingsModalProps {
     onClose: () => void;
@@ -13,36 +13,6 @@ const GeneralSettingsModal: React.FC<GeneralSettingsModalProps> = ({ onClose }) 
     const [selectedTheme, setSelectedTheme] = useState<Theme | null>(theme);
     const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>(difficulty);
 
-    const difficulties: Difficulty[] = [
-        Difficulty.Facil,
-        Difficulty.Normal,
-        Difficulty.Dificil,
-        Difficulty.Insano,
-    ];
-    const themes: Theme[] = [
-        Theme.TaylorSwift,
-        Theme.Bzrp,
-        Theme.Duki,
-        Theme.MariaBecerra,
-        Theme.YSYA,
-        Theme.Tini,
-        Theme.NickiNicole,
-        Theme.Wos,
-        Theme.Louta,
-        Theme.Trueno,
-        Theme.Lali,
-        Theme.AbelPintos,
-        Theme.Cerati,
-        Theme.SodaStereo,
-        Theme.LosRedondos,
-        Theme.LaRenga,
-        Theme.CharlyGarcia,
-        Theme.Iorio,
-        Theme.CristianCastro,
-        Theme.DuaLipa,
-        Theme.Robleis,
-        Theme.EdSheeran
-    ].sort((a, b) => a.localeCompare(b));
     const handleSetDifficulty = (difficulty: Difficulty) => {
         setSelectedDifficulty(difficulty);
     };

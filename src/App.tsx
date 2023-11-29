@@ -1,7 +1,7 @@
 import Game from './Components/Game/Game';
 import { useGameContext } from './Context/GameContext';
 import './App.css';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import GeneralSettingsModal from './Components/GeneralSettingsModal/GeneralSettingsModal';
 
 const App: React.FC = () => {
@@ -11,6 +11,9 @@ const App: React.FC = () => {
   const handleModal = () => {
     setModalVisible(!modalVisible);
   };
+  useEffect(() => {
+    setModalVisible(!theme);
+  }, [theme]);
 
   return (
     <div className='container'>

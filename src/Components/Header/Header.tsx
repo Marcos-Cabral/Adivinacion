@@ -4,9 +4,10 @@ import { useGameContext } from '../../Context/GameContext';
 interface HeaderProps {
     onPlay: () => void;
     isPlaying: boolean;
+    totalOptions: number;
 }
 
-const Header: React.FC<HeaderProps> = ({ onPlay, isPlaying }) => {
+const Header: React.FC<HeaderProps> = ({ onPlay, isPlaying, totalOptions }) => {
     const { score } = useGameContext();
 
     return (
@@ -17,10 +18,11 @@ const Header: React.FC<HeaderProps> = ({ onPlay, isPlaying }) => {
                     <img src={isPlaying ? "/audio.gif" : "/play.png"} alt="play" width={30} height={30} />
                 </button>
             </div>
-            <span className='score-text'>Aciertos:  
+            <span className='score-text'>Aciertos:
                 <span className="score">
-                   {"    "} {score}
+                    {""} {score}
                 </span>
+                <span className='score-text-total'> / {totalOptions} </span>
             </span>
         </div>
     );
